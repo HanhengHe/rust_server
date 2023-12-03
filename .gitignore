@@ -1,5 +1,2 @@
-rust_server/target/*
-target/*
-rust_server-6efbb92d19f8af4c/dep-test-bin-rust_server
-target/debug/.fingerprint/*
-target/debug/deps/*
+rust_server/target/
+target/
